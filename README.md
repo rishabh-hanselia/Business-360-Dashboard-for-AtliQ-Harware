@@ -51,6 +51,5 @@ To design and develop a centralized **Business 360 Dashboard** using Power BI th
 ---
 
 ## 📷 Dashboard
-
-<iframe title="Atliq Business" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjk0NTI3NjgtYzU3Mi00ZDNiLWIwMjQtZGYzNDMwODdiMTc3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
+[![Business Insight 360 dashboard](https://github.com/user-attachments/assets/94f48764-c953-4a2c-bdd4-f7d7cadc5b2b)] (https://app.powerbi.com/view?r=eyJrIjoiMjk0NTI3NjgtYzU3Mi00ZDNiLWIwMjQtZGYzNDMwODdiMTc3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
